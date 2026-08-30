@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [NLP and CV](NLP and CV)
 
-- 📫 How to reach me **al7745450@gmail.com**
+- 📫 How to reach me **awaisliaquat23@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/awais-liaqat-443162321](www.linkedin.com/in/awais-liaqat-443162321)
 
