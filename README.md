@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm AWAIS LIAQAT</h1>
 <h3 align="center">A passionate Machine Learning & Deep Learning Engineer | NLP & LLM Enthusiast | AI Solutions Builder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awais-liaqat123" alt="awais-liaqat123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awais-liaqat123" alt="AwaisLiaqat-R" /></a> </p>
 
-- 🔭 I’m currently working on a fin swarm nexus an AI based trading platform **FinSwarm Nexus**
+- 🔭 I have completed the project fin swarm nexus an AI based trading platform **FinSwarm Nexus**
 
-- 🌱 I’m currently learning **PyTorch 3.x ,TensorFlow 3.0+,JAX + ,Hugging Face Transformers & DiffusersFlax / Pallas,**
-
-- 👯 I’m looking to collaborate on a startup called AI OS **Pak OS**
-
-- 🤝 I’m looking for help with a programmer who knows to code in a Rust Programming language **Pak OS**
+- 🌱 I have  learneed **PyTorch 3.x ,TensorFlow 3.0+,JAX + ,Hugging Face Transformers **
 
 - 👨‍💻 All of my projects are available at [https://praise-space.vercel.app](https://praise-space.vercel.app)
 
