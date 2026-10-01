@@ -1,35 +1,73 @@
-<h1 align="center">Hi 👋, I'm AWAIS LIAQAT</h1>
-<h3 align="center">A passionate Machine Learning & Deep Learning Engineer | NLP & LLM Enthusiast | AI Solutions Builder</h3>
+# I'm AWAIS LIAQAT
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awais-liaqat123" alt="AwaisLiaqat-R" /></a> </p>
+## A passionate Machine Learning & Deep Learning Engineer | NLP & LLM Enthusiast | AI Solutions Builder
 
-- 🔭 I have completed the project fin swarm nexus an AI based trading platform **FinSwarm Nexus**
+- **Current Focus:** Building high-performance AI systems, multi-agent frameworks, and scalable NLP pipelines.
+- **Tech Stack Focus:** PyTorch, TensorFlow,Hugging Face Transformers, Rust, and Python.
+- **Portfolio:** [praise-space.vercel.app](https://praise-space.vercel.app)
+- **Writing:** Regularly sharing insights on Natural Language Processing, LLM Agents, and Computer Vision.
+- **Reach Me:** [awaisliaquat23@gmail.com](mailto:awaisliaquat23@gmail.com)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/awais-liaqat-443162321)
 
-- 🌱 I have  learneed **PyTorch 3.x ,TensorFlow 3.0+,JAX + ,Hugging Face Transformers **
+---
 
-- 👨‍💻 All of my projects are available at [https://praise-space.vercel.app](https://praise-space.vercel.app)
+## Tech Stack & Tools
 
-- 📝 I regularly write articles on [NLP and CV](NLP and CV)
-
-- 📫 How to reach me **awaisliaquat23@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/awais-liaqat-443162321](www.linkedin.com/in/awais-liaqat-443162321)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/awais liaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais liaqat" height="30" width="40" /></a>
-<a href="https://instagram.com/awa8s liaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awa8s liaqat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/al7745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="al7745" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/al774545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="al774545" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/00666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="00666" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-liaqat123&show_icons=true&locale=en&layout=compact" alt="awais-liaqat123" /></p>
+## Featured AI Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awais-liaqat123&show_icons=true&locale=en" alt="awais-liaqat123" /></p>
+### [FinSwarm Nexus](https://github.com/AwaisLiaqat-R)
+> **Multi-Agent AI Trading & Market Analysis Engine**
+- Built an autonomous multi-agent trading architecture leveraging shared memory for low-latency decision-making.
+- **Tech Stack:** Python, Rust, PyTorch, Multi-Agent Systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awais-liaqat123&" alt="awais-liaqat123" /></p>
+### [Quora Question Pair Similarity](https://github.com/AwaisLiaqat-R)
+> **Semantic Search & Duplicate Question Detection Engine**
+- Integrated Sentence-BERT embeddings with FAISS vector indexing to deliver sub-millisecond semantic similarity retrieval across large dataset volumes.
+- **Tech Stack:** PyTorch, Sentence-Transformers, FAISS, FastAPIs.
+
+### [Customer Churn Analysis](https://github.com/AwaisLiaqat-R)
+> **Predictive Retention & Survival Modeling**
+- Modeled customer lifetime value and churn risk factors using Cox Proportional Hazards and machine learning classification algorithms.
+- **Tech Stack:** Python, Scikit-Learn, Pandas, Survival Analysis.
+
+---
+## Certifications & Honors
+
+- **Python for Deep Learning** — *HarvardX*
+- **Deep Learning** — *MIT OpenCourseWare*
+- **Cybersecurity Certification** — *Harvard University*
+- **Agentic AI & Autonomous Systems** — *Academy.ai*
+
+---
+
+## Featured Writing & Articles
+
+- **Deep Dive into Modern NLP Pipelines:** Architecting production-grade transformer models.
+- **Computer Vision in Practice:** Optimizing real-time inference using OpenCV and TensorRT.
+
+---
+
+## GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AwaisLiaqat-R&show_icons=true&theme=radial" alt="Awais's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisLiaqat-R&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisLiaqat-R&theme=radial" alt="GitHub Streak" />
 
